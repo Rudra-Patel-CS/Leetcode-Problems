@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/1816-truncate-sentence) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
