@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0162-find-peak-element](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Rudra-Patel-CS/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
